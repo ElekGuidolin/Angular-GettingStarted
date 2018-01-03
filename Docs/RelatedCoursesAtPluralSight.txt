@@ -2,5 +2,11 @@ TypeScript Fundamentals
 AngularJS with TypeScript
 Using ES6 with TypeScript
 
+Angular: Reactive Forms
+ - Http and CRUD
+
+Play by Play: Angular 2/RxJS/HTTP and RESTful Services with John Papa and Dan Wahlin
+ - RxJS and Observables
+
 Visual Studio Code
 
