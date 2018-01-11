@@ -8,5 +8,7 @@ Angular: Reactive Forms
 Play by Play: Angular 2/RxJS/HTTP and RESTful Services with John Papa and Dan Wahlin
  - RxJS and Observables
 
+Angular Routing - Deborah Kurata
+
 Visual Studio Code
 
