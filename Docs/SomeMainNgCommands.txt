@@ -1,0 +1,30 @@
+Commands used:
+
+ng help
+
+ng v --help
+
+//Create a new application
+ng new hello-world
+
+//Change the app prefix and folders to hw
+ng new hello-world --prefix hw
+
+//Comples and run the application
+ng serve
+ng serve -o
+ng serve --help
+
+//Generate modules, components, services, pipes, etc.
+ng generate
+ng generate --help
+
+//Test the application using Karma and Proactor
+ng test
+ng e2e
+
+//Creates a new deployed application
+ng build
+
+//For uglify, Tree shake and AOT compilation
+ng build --prod
