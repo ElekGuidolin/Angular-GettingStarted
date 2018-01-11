@@ -3,8 +3,7 @@ import { ProductService } from "./products/product.service";
 
 @Component({
   selector: 'pm-root',
-  templateUrl: './shared/menu.component.html',
-  providers: [ ProductService ]
+  templateUrl: './shared/menu.component.html'
 })
 
 export class AppComponent {
