@@ -10,5 +10,16 @@ Play by Play: Angular 2/RxJS/HTTP and RESTful Services with John Papa and Dan Wa
 
 Angular Routing - Deborah Kurata
 
-Visual Studio Code
+Angular CLI
+ - John Papa
+
+Angular: First Look
+Angular CLI
+Angular Reactive Forms
+Angular Routing
+Angular Fundamentals
+
+Angular.io
+
+
 
